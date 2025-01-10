@@ -32,4 +32,3 @@ A budding data scientist with skills in programming, graphic design, and layout 
 ## Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rene-angelo-de-los-reyes-9a6a631a0/))
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://spotify.com/](https://open.spotify.com/user/21t7xbrhkgybeykwe73uclkgi))
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rendznicoy.rendznicoy)
