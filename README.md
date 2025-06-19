@@ -1,4 +1,4 @@
-# Creative Fullstack Developer & Aspiring Data Scientist from the Philippines
+# Fullstack Developer & Aspiring Data Scientist from the Philippines
 
 A Computer Science undegrad from Visayas State University—Dean’s Lister, award-winning trainee, and passionate problem-solver. Skilled in programming, data science, web development, and design, I build scalable systems with clean code and thoughtful UI/UX. Equal parts creative and technical—because why not both?
 
