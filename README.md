@@ -70,9 +70,3 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 - 🎮 Gaming enthusiast when not coding
 - 📚 Always learning something new in tech
 - 🌟 Believer in the power of clean code and great user experiences
-
----
-
-<div align="center">
-  Thanks for visiting! Let's build something amazing together! 🚀
-</div>
