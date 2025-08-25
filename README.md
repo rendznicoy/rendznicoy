@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/rendznicoy/rendznicoy/blob/main/LinkedIn%20Cover%20Image.png)
 
-👋 Hello there! I'm  Rene, a freelance software developer with a passion for problem-solving and building user-centered applications. Over my academic journey, I've developed expertise in programming, machine learning, web development, and design, always striving to build scalable systems with clean code and thoughtful UI/UX.
+Hello there! I'm  Rene, a freelance software developer with a passion for problem-solving and building user-centered applications. Over my academic journey, I've developed expertise in programming, web development, and design, always striving to build scalable systems with clean code and thoughtful UI/UX.
 
 I'm equal parts creative and technical—because why not both? Currently gaining more experience with full-stack development and UI/UX design, while contributing to freelance projects and building solutions that make a difference.
 
@@ -15,7 +15,7 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,php,cs,bash" />
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,c,java,php,cs" />
   </a>
 </p>
 
@@ -24,20 +24,19 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 <h3 align="left">Web Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,laravel,tailwind,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=vue,laravel,tailwind,html,css" />
   </a>
 </p>
 
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 
@@ -45,12 +44,11 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <h3 align="left">Tools & Design</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,photoshop" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,photoshop" />
   </a>
 </p>
 
@@ -69,4 +67,3 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 - ☕ Fueled by coffee and curiosity
 - 🎮 Gaming enthusiast when not coding
 - 📚 Always learning something new in tech
-- 🌟 Believer in the power of clean code and great user experiences
