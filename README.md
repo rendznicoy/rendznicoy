@@ -15,7 +15,7 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,python,cpp,c,java,php,cs" />
+    <img src="https://skillicons.dev/icons?i=js,python,php,cpp,c,java,cs" />
   </a>
 </p>
 
@@ -29,9 +29,11 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 <h3 align="left">Web Development</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,laravel,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=jquery,vue,laravel,tailwind,html,css" />
   </a>
 </p>
+
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)
 
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
@@ -51,6 +53,8 @@ I'm equal parts creative and technical—because why not both? Currently gaining
     <img src="https://skillicons.dev/icons?i=git,github,figma,postman,photoshop" />
   </a>
 </p>
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ## 🤝 Let's Connect!
 
