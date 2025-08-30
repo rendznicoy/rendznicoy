@@ -6,16 +6,16 @@ Hello there! I'm  Rene, a freelance software developer with a passion for proble
 
 I'm equal parts creative and technical—because why not both? Currently gaining more experience with full-stack development and UI/UX design, while contributing to freelance projects and building solutions that make a difference.
 
-🔍 **Currently focusing on:** Advanced web development techniques, modern web frameworks, and industry standard designs.
-🌱 **Learning:** ReactJS, TypeScrit, and Supabase.  
-💡 **Passionate about:** Creating impactful solutions through code and data-driven insights.
+**Currently focusing on:** Advanced web development techniques, modern web frameworks, and industry standard designs.
+**Learning:** ReactJS, TypeScrit, and Supabase.  
+**Passionate about:** Creating impactful solutions through code and data-driven insights.
 
 ## 🛠️ Technologies & Tools
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,c,java,php,cs" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,python,cpp,c,java,php,cs" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 
 ## 💭 Fun Facts
 
-- 🌊 Based in the beautiful Philippines, surrounded by incredible beaches and islands
-- ☕ Fueled by coffee and curiosity
-- 🎮 Gaming enthusiast when not coding
-- 📚 Always learning something new in tech
+- Based in the beautiful Philippines, surrounded by incredible beaches and islands
+- Fueled by coffee and curiosity
+- Gaming enthusiast when not coding
+- Always learning something new in tech
