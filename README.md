@@ -29,13 +29,6 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 ![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge&logo=node.js&logoColor=white)  
 ![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)  
 
-<h3 align="left">Data Science & Machine Learning</h3>
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -57,6 +50,7 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 </p>
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 ## 🤝 Let's Connect!
 
