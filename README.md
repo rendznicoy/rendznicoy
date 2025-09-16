@@ -1,13 +1,13 @@
-# Hi, I'm Rene or well known as Rain
+<p align="center">
+  <img src="https://github.com/rendznicoy/rendznicoy/blob/main/FBBG.png" alt="Profile Banner" />
+</p>
 
-![Profile Banner](https://github.com/rendznicoy/rendznicoy/blob/main/LinkedIn%20Cover%20Image.png)
-
-Hello there! I'm  Rene, a freelance software developer with a passion for problem-solving and building user-centered applications. Over my academic journey, I've developed expertise in programming, web development, and design, always striving to build scalable systems with clean code and thoughtful UI/UX.
+Hello there! I'm Rene, a freelance software developer with a passion for problem-solving and building user-centered applications. Over my academic journey, I've developed expertise in programming, web development, and design, always striving to build scalable systems with clean code and thoughtful UI/UX.
 
 I'm equal parts creative and technical—because why not both? Currently gaining more experience with full-stack development and UI/UX design, while contributing to freelance projects and building solutions that make a difference.
 
-**Currently focusing on:** Advanced web development techniques, modern web frameworks, and industry standard designs.
-**Learning:** ReactJS, TypeScrit, and Supabase.  
+**Currently focusing on:** Advanced web development techniques, modern web frameworks, and industry standard designs.  
+**Learning:** Angular, TypeScript, and Supabase.  
 **Passionate about:** Creating impactful solutions through code and data-driven insights.
 
 ## 🛠️ Technologies & Tools
@@ -15,25 +15,27 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,php,cpp,c,java,cs" />
+    <img src="https://skillicons.dev/icons?i=js,python,php,c,java" />
   </a>
 </p>
+
+<h3 align="left">Frameworks & Runtimes</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,express,laravel,bootstrap" />
+  </a>
+</p>
+
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logoColor=white)  
+![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge&logo=node.js&logoColor=white)  
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)  
 
 <h3 align="left">Data Science & Machine Learning</h3>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-<h3 align="left">Web Development</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,vue,laravel,tailwind,html,css" />
-  </a>
-</p>
-
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)
 
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
@@ -44,8 +46,9 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 
 <h3 align="left">Cloud & DevOps</h3>
 
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 <h3 align="left">Tools & Design</h3>
 <p align="left">
@@ -67,7 +70,6 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 
 ## 💭 Fun Facts
 
-- Based in the beautiful Philippines, surrounded by incredible beaches and islands
-- Fueled by coffee and curiosity
-- Gaming enthusiast when not coding
-- Always learning something new in tech
+- Fueled by coffee and curiosity  
+- Gaming enthusiast when not coding  
+- Always learning something new in tech  
