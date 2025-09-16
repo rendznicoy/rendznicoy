@@ -26,7 +26,6 @@ I'm equal parts creative and technical—because why not both? Currently gaining
   </a>
 </p>
 
-![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logoColor=white)  
 ![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge&logo=node.js&logoColor=white)  
 ![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)  
 
