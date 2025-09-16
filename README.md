@@ -22,7 +22,7 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 <h3 align="left">Frameworks & Runtimes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,express,laravel,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,express,laravel,bootstrap,tailwind" />
   </a>
 </p>
 
