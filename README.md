@@ -4,8 +4,6 @@
 
 Hello there! I'm Rene, a freelance software developer with a passion for problem-solving and building user-centered applications. Over my academic journey, I've developed expertise in programming, web development, and design, always striving to build scalable systems with clean code and thoughtful UI/UX.
 
-I'm equal parts creative and technical—because why not both? Currently gaining more experience with full-stack development and UI/UX design, while contributing to freelance projects and building solutions that make a difference.
-
 **Currently focusing on:** Advanced web development techniques, modern web frameworks, and industry standard designs.  
 **Learning:** Angular, TypeScript, and Supabase.  
 **Passionate about:** Creating impactful solutions through code and data-driven insights.
@@ -15,19 +13,18 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,php,c,java" />
+    <img src="https://skillicons.dev/icons?i=js,python,php,c" />
   </a>
 </p>
 
 <h3 align="left">Frameworks & Runtimes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,express,laravel,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,express,laravel,bootstrap,tailwind" />
   </a>
 </p>
 
 ![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge&logo=node.js&logoColor=white)  
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=javascript&logoColor=white)  
 
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
@@ -49,7 +46,6 @@ I'm equal parts creative and technical—because why not both? Currently gaining
   </a>
 </p>
 
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 ## 🤝 Let's Connect!
@@ -64,5 +60,4 @@ I'm equal parts creative and technical—because why not both? Currently gaining
 ## 💭 Fun Facts
 
 - Fueled by coffee and curiosity  
-- Gaming enthusiast when not coding  
-- Always learning something new in tech  
+- Gaming enthusiast when not coding   
