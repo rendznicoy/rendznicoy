@@ -2,24 +2,21 @@
   <img src="https://github.com/rendznicoy/rendznicoy/blob/main/FBBG.png" alt="Profile Banner" />
 </p>
 
-Full Stack Developer and UI/UX Designer. Passionate about cybersecurity, software quality, and cloud technologies. I focus on building clean, secure, and efficient web solutions that reflect both technical precision and thoughtful design. AI enthusiast.
-
-**Currently focusing on:** Cybersecurity, web development, and cloud technologies.
-**Learning:** React, TypeScript, and Supabase. 
+Developer and UI/UX Designer
 
 ## Technologies & Tools
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,php" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,csharp" />
   </a>
 </p>
 
 <h3 align="left">Frameworks & Runtimes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,laravel,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,laravel" />
   </a>
 </p>
 
@@ -30,20 +27,21 @@ Full Stack Developer and UI/UX Designer. Passionate about cybersecurity, softwar
   </a>
 </p>
 
-<h3 align="left">Cloud & DevOps</h3>
-
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-
-<h3 align="left">Tools & Design</h3>
+<h3 align="left">Tools & Platforms</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,photoshop" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma" />
   </a>
 </p>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Frappe](https://img.shields.io/badge/Frappe/ERPNext-0084FF?style=for-the-badge&logo=frappe&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-F37626?style=for-the-badge&logo=xampp&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0B78BE?style=for-the-badge&logo=laragon&logoColor=white)
+
+<h3 align="left">Concepts & Methodologies</h3>
+<p>
+  UI/UX Design • RESTful APIs • MVC • MVVM • Agile • Kanban
+</p>
 
 ## Let's Connect!
 
@@ -52,4 +50,4 @@ Full Stack Developer and UI/UX Designer. Passionate about cybersecurity, softwar
   <a href="https://www.linkedin.com/in/rainyjane/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-</p> 
+</p>
